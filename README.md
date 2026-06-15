@@ -1,0 +1,2 @@
+# FinSync
+Budget App
